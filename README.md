@@ -39,8 +39,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-react-tailwind-H89_1HEvHu](https://your-solution-url.com)
+- Live Site URL: [https://waquintero-ia.github.io/statsCard/](https://your-live-site-url.com)
 
 ## Author
 
